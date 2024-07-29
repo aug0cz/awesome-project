@@ -37,3 +37,8 @@ google 开源JavaScript脚本执行工具
 
 ### [Temporal](https://github.com/temporalio/temporal)
 分布式工作流引擎
+k8s网络指南
+
+#### [slidev](https://github.com/slidevjs/slidev)
+
+为开发者打造的演示文稿工具
