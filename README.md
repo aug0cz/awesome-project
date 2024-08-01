@@ -39,6 +39,11 @@ google 开源JavaScript脚本执行工具
 分布式工作流引擎
 k8s网络指南
 
-#### [slidev](https://github.com/slidevjs/slidev)
+### [slidev](https://github.com/slidevjs/slidev)
 
 为开发者打造的演示文稿工具
+
+
+### [scalar](https://github.com/scalar/scalar)
+
+优美的OpenAPI/Swagger API文档web生成
